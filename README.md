@@ -76,7 +76,7 @@
 
   <h5>🔹 Other:</h5>
   <p>
-    &nbsp;&nbsp;&nbsp;• Unit, Integration, E2E Testing
+    &nbsp;&nbsp;&nbsp;• Unit, Integration, E2E Testing <br/>
     &nbsp;&nbsp;&nbsp;• Identity servers (in particular Keycloak)
   </p>
 </div>
