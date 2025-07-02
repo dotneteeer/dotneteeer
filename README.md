@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=flat&logo=elasticsearch&logoColor=white" alt="Elastic Search" />
     <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white" alt="Prometheus" />
     <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white" alt="Grafana" />
-    , Jaeger, ELK Stack, Aspire Dashboard
+    , Jaeger, ELK Stack
   </p>
 
   <h5>🔹 Cache:</h5>
@@ -77,7 +77,7 @@
   <h5>🔹 Other:</h5>
   <p>
     &nbsp;&nbsp;&nbsp;• Unit, Integration, E2E Testing <br/>
-    &nbsp;&nbsp;&nbsp;• Identity servers (in particular Keycloak)
+    &nbsp;&nbsp;&nbsp;• Identity servers 
   </p>
 </div>
 
