@@ -1,6 +1,5 @@
 <div align="center">
 
-  <!-- Заголовок -->
   <h1>Hello, World! I'm Marat 
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
   </h1>
@@ -59,7 +58,7 @@
   <h5>🔹 API:</h5>
   <p>
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL" />
-    , GRPC
+    , gRPC
   </p>
 
   <h5>🔹 Message Brokers:</h5>
@@ -76,7 +75,7 @@
 
   <h5>🔹 Other:</h5>
   <p>
-    &nbsp;&nbsp;&nbsp;• Unit, Integration, E2E Testing <br/>
+    &nbsp;&nbsp;&nbsp;• Unit, Integration, Functional (E2E) Testing <br/>
     &nbsp;&nbsp;&nbsp;• Identity servers 
   </p>
 </div>
